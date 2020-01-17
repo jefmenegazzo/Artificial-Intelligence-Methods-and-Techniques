@@ -1,0 +1,10 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/__pycache__": true,
+        ".gitignore": true,
+        "**/.ipynb_checkpoints": true,
+        ".vscode": true
+    },
+    "python.pythonPath": "C:\\ProgramData\\Anaconda3\\python.exe"
+}
