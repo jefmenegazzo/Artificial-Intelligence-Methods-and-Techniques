@@ -21,14 +21,14 @@ If this repository helped you, give your star :)
 
 The examples available in this repository cover several processing steps, from pre-processing, processing and post-processing. The methods already available are described below.
 
-## Pre-Processing
+### Pre-Processing
 
 * 
 <!--
 The preprocessing step involves filtering, smoothing, data segmentation and feature extraction.
 -->
 
-## Processing
+### Processing
 
 <!--
 Methods for classification or regression.
@@ -37,7 +37,7 @@ Methods for classification or regression.
 * [K-Nearest Neighbors](K-Nearest%20Neighbors)
 * [Support Vector Machine](Support%20Vector%20Machine)
 
-## Pos-Processing
+### Pos-Processing
 
 <!--
 reliability
@@ -49,7 +49,7 @@ reliability
 
 You can run the methods in two ways:
 
-* Running Locally
+### Running Locally
 
 Clone this repository to your machine and add it to your jupyter notebook path:
 
@@ -57,7 +57,7 @@ Clone this repository to your machine and add it to your jupyter notebook path:
 git clone https://github.com/jefmenegazzo/Artificial-Intelligence-Methods-and-Techniques.git
 ```
 
-* Running Online
+### Running Online
 
 You can run online on [Google Colab](https://colab.research.google.com/github/jefmenegazzo/Artificial-Intelligence-Methods-and-Techniques/blob/master/) or [Binder](https://mybinder.org/v2/gh/jefmenegazzo/Artificial-Intelligence-Methods-and-Techniques/master).
 
