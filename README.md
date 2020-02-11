@@ -17,7 +17,7 @@ If this repository helped you, give your star :)
 - [Contributions](Contributions)
 - [License](#License)
 
-# Overview
+## Overview
 
 The examples available in this repository cover several processing steps, from pre-processing, processing and post-processing. The methods already available are described below.
 
@@ -45,7 +45,7 @@ reliability
 
 * 
 
-# How To Use
+## How To Use
 
 You can run the methods in two ways:
 
@@ -61,10 +61,10 @@ git clone https://github.com/jefmenegazzo/Artificial-Intelligence-Methods-and-Te
 
 You can run online on [Google Colab](https://colab.research.google.com/github/jefmenegazzo/Artificial-Intelligence-Methods-and-Techniques/blob/master/) or [Binder](https://mybinder.org/v2/gh/jefmenegazzo/Artificial-Intelligence-Methods-and-Techniques/master).
 
-# Contributions
+## Contributions
 
 The repository is open to contributions in documentation, error fixes, improvements and addition of new methods. Currently, the theoretical explanation of the methods is referenced through links in the Jupyter Notebook. However, contributions are welcome to add the theoretical explanation of the AI methods and techniques together with the source-code in Jupyter Notebook.
 
-# License
+## License
 
 The MIT License (MIT). Please see [License File](LICENSE) for more information.
