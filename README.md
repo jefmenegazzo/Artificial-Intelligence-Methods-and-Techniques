@@ -34,6 +34,7 @@ The preprocessing step involves filtering, smoothing, data segmentation and feat
 Methods for classification or regression.
 -->
 
+* [K-Means Clustering](K-Means%20Clustering)
 * [K-Nearest Neighbors](K-Nearest%20Neighbors)
 * [Support Vector Machine](Support%20Vector%20Machine)
 
